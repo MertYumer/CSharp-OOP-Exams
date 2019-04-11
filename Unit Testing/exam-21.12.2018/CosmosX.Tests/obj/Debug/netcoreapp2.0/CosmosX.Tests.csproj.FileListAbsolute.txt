@@ -1,0 +1,17 @@
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.deps.json
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.json
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.dev.json
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.dll
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.pdb
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.dll
+D:\Projects\New folder\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.pdb
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csprojAssemblyReference.cache
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfoInputs.cache
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfo.cs
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CopyComplete
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.dll
+D:\Projects\New folder\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.pdb

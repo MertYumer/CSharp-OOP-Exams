@@ -1,0 +1,11 @@
+D:\Projects\New folder\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+D:\Projects\New folder\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+D:\Projects\New folder\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+D:\Projects\New folder\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+D:\Projects\New folder\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csprojAssemblyReference.cache
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+D:\Projects\New folder\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb
