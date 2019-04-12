@@ -1,0 +1,22 @@
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.deps.json
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.json
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.dll
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csprojAssemblyReference.cache
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.dll
+C:\Users\Stoyan\Desktop\01. Business Logic_Skeleton (.NET Core)\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\Projects\New folder\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.deps.json
+D:\Projects\New folder\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.json
+D:\Projects\New folder\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.dev.json
+D:\Projects\New folder\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\Projects\New folder\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csprojAssemblyReference.cache
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfoInputs.cache
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfo.cs
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.dll
+D:\Projects\New folder\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.pdb
