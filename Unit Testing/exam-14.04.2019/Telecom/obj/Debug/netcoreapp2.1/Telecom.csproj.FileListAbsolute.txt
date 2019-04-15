@@ -1,0 +1,11 @@
+D:\Projects\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+D:\Projects\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+D:\Projects\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+D:\Projects\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+D:\Projects\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+D:\Projects\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb
